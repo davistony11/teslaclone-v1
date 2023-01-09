@@ -25,8 +25,8 @@ function Header() {
 
             </Menu>
             <RightMenu>
-                <a href="#">Shop</a>
-                <a href="#">Tesla Account</a>
+                <a href="/">Shop</a>
+                <a href="/">Tesla Account</a>
 
             </RightMenu>
             <CustomMenu onClick={()=>setburgeropen(true)} >
@@ -41,16 +41,16 @@ function Header() {
                 </CustomClose>
                 </CloseWrapper>
                 
-                <li><a href="#">existing inventory</a></li>
-                <li><a href="#">used inventory</a></li>
-                <li><a href="#">trade-in</a></li>
-                <li><a href="#">cybertruck</a></li>
-                <li><a href="#">roadster</a></li>
-                <li><a href="#">existing inventory</a></li>
-                <li><a href="#">existing inventory</a></li>
-                <li><a href="#">existing inventory</a></li>
-                <li><a href="#">existing inventory</a></li>
-                <li><a href="#">existing inventory</a></li>
+                <li><a href="/">existing inventory</a></li>
+                <li><a href="/">used inventory</a></li>
+                <li><a href="/">trade-in</a></li>
+                <li><a href="/">cybertruck</a></li>
+                <li><a href="/">roadster</a></li>
+                <li><a href="/">existing inventory</a></li>
+                <li><a href="/">existing inventory</a></li>
+                <li><a href="/">existing inventory</a></li>
+                <li><a href="/">existing inventory</a></li>
+                <li><a href="/">existing inventory</a></li>
             </BurgerNav>
       
         
